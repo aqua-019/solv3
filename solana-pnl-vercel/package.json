@@ -1,0 +1,27 @@
+{
+  "name": "solana-pnl-dashboard",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Aquatic's Retarded Attempt at 10,000 SOL 2026 — Solana Wallet PnL Dashboard",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "next": "^14.2.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.18"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
